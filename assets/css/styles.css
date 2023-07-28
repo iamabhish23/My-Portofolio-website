@@ -247,6 +247,8 @@ img {
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
+  
+  
 }
 
 .button:hover {
@@ -347,7 +349,7 @@ img {
 }
 
 .work__img {
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  box-shadow: 0px 4px 20px rgba(14, 36, 49, 0.15);
   border-radius: .5rem;
   overflow: hidden;
 }
@@ -357,7 +359,7 @@ img {
 }
 
 .work__img img:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 /* ===== CONTACT =====*/
