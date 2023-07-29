@@ -66,7 +66,7 @@ a {
 }
 
 img {
-  max-width: 110%;
+  max-width: 108%;
   height: auto;
   display: block;
 }
@@ -360,7 +360,7 @@ img {
 }
 
 .work__img img:hover {
-  transform: scale(1.15);
+  transform: scale(1.17);
 }
 
 /* ===== CONTACT =====*/
@@ -385,6 +385,8 @@ img {
    /* transform: translateX(-0%); */
   
 }
+
+
 
 /* ===== FOOTER =====*/
 .footer {
