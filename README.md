@@ -51,10 +51,10 @@ You can reach me through the following platforms:
 
 - GitHub: [iamabhish23](https://github.com/iamabhish23)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: iamabhishek.tiwari23@gmail.com
 
 Feel free to connect and let's discuss exciting opportunities!
 
 ---
 
-Designed & developed by [Your Name](https://iamabhish23.github.io/My-Portofolio-website/)
+Designed & developed by Abhishek Tiwari(https://iamabhish23.github.io/My-Portofolio-website/)
